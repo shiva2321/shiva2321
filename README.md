@@ -17,7 +17,9 @@ AI systems engineer and independent researcher, based in India. I build tools th
 
 ## Research
 
-Five preprints on [ResearchGate](https://www.researchgate.net/profile/Shivam-Prajapati-8), one with a Zenodo DOI ([10.5281/zenodo.19476847](https://doi.org/10.5281/zenodo.19476847)), and three more in draft. The write-ups report results that did not hold up as well as the ones that did.
+Five preprints on [ResearchGate](https://www.researchgate.net/profile/Shivam-Prajapati-8), one with a Zenodo DOI ([10.5281/zenodo.19476847](https://doi.org/10.5281/zenodo.19476847)), and three more in draft.
+
+Topics: hyperdimensional computing (VSA), complex-valued "phasor" transformers, and mixture-of-experts continual learning.
 
 ## Contact
 
